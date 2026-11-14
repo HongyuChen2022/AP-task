@@ -1,4 +1,4 @@
-# What Can Go Wrong in Authorship Profiling
+# Cross-Domain Analysis of Gender and Age Prediction
 
 This repository accompanies the paper [What Can Go Wrong in Authorship Profiling: Cross-Domain Analysis of Gender and Age Prediction](https://aclanthology.org/2024.gebnlp-1.9/) (Chen et al., GeBNLP 2024).
 
